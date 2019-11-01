@@ -1,6 +1,6 @@
 # Intro to Natural Language Processing
 
-## PyData NYC_2019 Tutorial
+## PyData NYC 2019 Tutorial
 
 Mariel Frank
 @marielsmusings
