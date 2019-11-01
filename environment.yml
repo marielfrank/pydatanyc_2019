@@ -1,4 +1,4 @@
-name: example-environment
+name: intro-to-nlp-environment
 channels:
   - conda-forge
 dependencies:
