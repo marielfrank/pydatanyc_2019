@@ -3,7 +3,8 @@
 ## PyData NYC 2019 Tutorial
 
 Mariel Frank
-@marielsmusings
+
+[@marielsmusings](https://twitter.com/marielsmusings)
 
 
 
