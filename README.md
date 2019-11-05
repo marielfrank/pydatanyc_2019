@@ -29,3 +29,12 @@ If you are familiar with Git and Jupyter Notebook, you can run the clone command
     git clone https://github.com/marielfrank/pydatanyc_2019.git
 
 Then you'll be able to follow along using [Jupyter Notebook](https://jupyter.org/install).
+
+### Resources
+
+[Slides for the presentation](https://docs.google.com/presentation/d/152GylHYlEJEIef5Xc7Gnul5Q9IJbJEQcuwQuoP5_Uno/edit?usp=sharing)
+
+A couple interesting use cases for parsing:
+
+- [Finding secret government agencies](https://twitter.com/hexadecim8/status/1068215227274137605)
+- [Detecting bias in literature](https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093)
